@@ -2,7 +2,7 @@
     outline: 1px solid red !important;
 }*/
 
-h1 {
+.title {
     font-weight: bold;
     font-size: 40px;
     margin-bottom: 1%;
