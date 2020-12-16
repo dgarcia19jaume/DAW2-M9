@@ -1,8 +1,10 @@
 .container {
     width: 800px;
     margin: auto;
-    font-family: Text, sans-serif;
-}
+    font-family: 'Lato', sans-serif;
+
+}  
+
 header {
     display: flex;
 }
@@ -16,9 +18,9 @@ body {
     flex: 4;
     text-align: right;
     text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
 }
 .title > h1 {
-    font-family: "Main title", sans-serif;
     font-size: 2.5rem;
     color: #bcbbbb;
     padding-top: 0.5rem;
@@ -28,8 +30,8 @@ hr {
     margin-bottom: 1.5rem;
 }
 .title > h3 {
-    font-size: small;
-    font-family: "Main title", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
     color: #bcbbbb;
 }
 h2 {
@@ -64,10 +66,7 @@ img {
     font-size: smaller;
     color: #747704; 
 }
-@font-face {
-    font-family: "Main title";
-    src: url(../fonts/Lato-Hairline.ttf)format("truetype");
-}
+
 @media screen and (max-width: 400px) {
 
     .items-container {
