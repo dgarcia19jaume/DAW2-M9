@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://www.laxmasmusica.com/uploads/newsarticle/59f73da21f8641fea3906a2e335a13b4/deftones_web_1.gif");
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 100px;
+    background-color: black;;
+}
+div{
+    width: 5%;
+    text-align: center;
+    border: 1px solid blueviolet;
+    background-color: green;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 2%;
+    width: 6%;
+    margin-top: 1%;
+}  
+a{
+    text-decoration: none;
+    color: lightgreen;
+}
