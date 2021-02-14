@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.container{
+    margin: auto;
+    /*border: 1px solid red;*/
+    box-sizing: border-box;
+    
+}
+img{
+    max-width: 100%;
+}
+#cab{
+    background-color: lightgray;
+    font-size: 15px;
+}
+div address{
+    font-style: normal;
+    display: inline;
+    margin-left: 7%;
+}
+address img{
+    width: 1%;
+}
+address p{
+    display: inline;
+}
+.clock{
+
+    display: inline;
+}
+.clock img{
+    width: 1.1%;
+}
+.clock p{
+
+    display: inline;
+}
+.currency{
+    float: right;
+    overflow: auto;
+    margin-right: 20%;
+}
+.currency p{
+    display: inline;
+}
+.header{
+    text-align: center;
+}
+.header p{
+    /*border: 1px solid red;*/
+    display: inline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: left;
+    vertical-align: 150%;
+}
+.header svg{
+    margin-right: -100px;
+}
+.header img{
+    /*border: 1px solid red;*/
+    display: inline;
+    width: 15%;
+}
+
+
+
+
