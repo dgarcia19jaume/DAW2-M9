@@ -4,7 +4,7 @@
 }
 .container{
     margin: auto;
-    /*border: 1px solid red;*/
+    
     box-sizing: border-box;
     
 }
@@ -46,6 +46,7 @@ address p{
     display: inline;
 }
 .header{
+    margin-top: 2%;
     text-align: center;
 }
 .header p{
@@ -59,6 +60,7 @@ address p{
     vertical-align: 150%;
 }
 .header svg{
+    display: none;
     margin-right: -100px;
 }
 .header img{
@@ -66,7 +68,13 @@ address p{
     display: inline;
     width: 15%;
 }
-
+.vid{
+    background-image: url(/img/fon.jpg);
+    background-repeat: no-repeat;
+  
+    text-align: center;
+    padding-bottom: 320px;
+}
 
 
 
