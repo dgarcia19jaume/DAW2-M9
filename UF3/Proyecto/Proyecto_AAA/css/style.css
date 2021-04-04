@@ -480,11 +480,11 @@ ul.top_icon li a {
 }
 
 .menu-area-main li a:focus-visible{
-     color: #308409;
+     color: greenyellow;
 }
 
 .menu-area-main li.active a:focus-visible {
-     color: #308409;
+     color: greenyellow;
 }
 
 .right_cart_section {
@@ -1586,7 +1586,7 @@ input[type="radio"] .styled:checked+label::after {
      font-size: 46px;
      line-height: 55px;
      font-weight: bold;
-     color: #308409;
+     color: #51ff00;
 }
 .banner-main .carousel-caption p {
      color: #0c0404;
@@ -1595,7 +1595,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 .banner-main .carousel-caption a:focus-visible {
      
-     color: #308409;
+     color: yellow;
 }
 .color {
      color: #0c0404;
@@ -1608,13 +1608,13 @@ input[type="radio"] .styled:checked+label::after {
      margin-right: 10px;
 }
 .btn-primary:hover {
-     background: #308409;
+     background: #51ff00;
 }
 .img-box figure {
      margin: 0;
 }
 .img-box figure img {
-     box-shadow: #308409 0px 0px 0px 0px;
+     box-shadow: #51ff00 0px 0px 0px 0px;
 }
 .plants {
      padding: 90px 0px;
@@ -1641,7 +1641,7 @@ input[type="radio"] .styled:checked+label::after {
      margin: 10px auto;
      width: 50%;
      height: 6px;
-     background: #308409;
+     background: #51ff00;
 }
 .titlepage span {
      color: #141012;
@@ -1730,7 +1730,7 @@ input[type="radio"] .styled:checked+label::after {
      line-height: 32px;
      display: block;
 }
-.about-box .titlepage .read-more a{
+.about-box .titlepage .read-more a {
      font-size: 17px;
      padding: 15px 60px;
      background-color: #fff;
@@ -1841,7 +1841,7 @@ img.zoom {
      text-align: center;
      display: flex;
      justify-content: center;
-     background: #308409de;
+     background: #51ff00;
      align-items: center;
 }
 .Gallery .Gallery-box:hover .hoverle a {
@@ -2003,7 +2003,7 @@ ul.link li a {
      font-size: 17px;
 }
 ul.link li a:focus-visible {
-     color: #195000;
+     color: yellow;
 }
 .pdn-top-30 {
      padding-top: 35px;
@@ -2044,6 +2044,7 @@ ul.location_icon span {
      margin: 0 auto;
 }
 .copyright a {
+     font-weight: bold;
      color: rgb(229, 255, 0);
 }
 .copyright a:hover {
@@ -2102,8 +2103,8 @@ ul.location_icon span {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus:focus-visible,
 #main_slider .carousel-control-next:focus:focus-visible {
-     background: #195000;
-     color: #fff;
+     background: greenyellow;
+     
 }
 #main_slider a.carousel-control-prev {
      position: absolute;
